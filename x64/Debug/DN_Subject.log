@@ -1,0 +1,16 @@
+﻿  Binary_Search_Tree.c
+C:\Users\UIT801-\Desktop\coding\C,C++\DN_Subject\Binary_Search_Tree.c(148,26): warning C4098: 'find_previous': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\UIT801-\Desktop\coding\C,C++\DN_Subject\Binary_Search_Tree.c(158,26): warning C4098: 'find_previous2': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\UIT801-\Desktop\coding\C,C++\DN_Subject\Binary_Search_Tree.c(185,25): warning C4098: 'delete_data': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\UIT801-\Desktop\coding\C,C++\DN_Subject\Binary_Search_Tree.c(190,26): warning C4098: 'delete_data': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\UIT801-\Desktop\coding\C,C++\DN_Subject\Binary_Search_Tree.c(194,26): warning C4098: 'delete_data': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\UIT801-\Desktop\coding\C,C++\DN_Subject\Binary_Search_Tree.c(203,26): warning C4098: 'delete_data': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\UIT801-\Desktop\coding\C,C++\DN_Subject\Binary_Search_Tree.c(207,26): warning C4098: 'delete_data': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\UIT801-\Desktop\coding\C,C++\DN_Subject\Binary_Search_Tree.c(215,27): warning C4098: 'delete_data': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\UIT801-\Desktop\coding\C,C++\DN_Subject\Binary_Search_Tree.c(220,27): warning C4098: 'delete_data': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\UIT801-\Desktop\coding\C,C++\DN_Subject\Binary_Search_Tree.c(226,27): warning C4098: 'delete_data': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\UIT801-\Desktop\coding\C,C++\DN_Subject\Binary_Search_Tree.c(231,27): warning C4098: 'delete_data': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\UIT801-\Desktop\coding\C,C++\DN_Subject\Binary_Search_Tree.c(250,24): warning C4098: 'delete_data': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\UIT801-\Desktop\coding\C,C++\DN_Subject\Binary_Search_Tree.c(254,23): warning C4098: 'delete_data': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\UIT801-\Desktop\coding\C,C++\DN_Subject\Binary_Search_Tree.c(106): warning C4715: 'type_data': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  DN_Subject.vcxproj -> C:\Users\UIT801-\Desktop\coding\C,C++\DN_Subject\x64\Debug\DN_Subject.exe
